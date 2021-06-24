@@ -9,6 +9,7 @@
 사용 npm : mongoose, jsonwebtoken, hapijoi, bcrypt, morgan, dotenv
 
 #https://blog.naver.com/dcdcding/222293407872
+https://jwt.io/
 
 #redis에 대해 간단하게 공부
 #우테코 유튜브: https://www.youtube.com/watch?v=mPB2CZiAkKM&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTechc
