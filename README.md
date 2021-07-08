@@ -15,3 +15,5 @@ https://jwt.io/
 #우테코 유튜브: https://www.youtube.com/watch?v=mPB2CZiAkKM&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTechc
 
 #freecodecamp tutorial: https://www.youtube.com/watch?v=XCsS_NVAa1g&ab_channel=freeCodeCamp.org
+
+자바-스프링 게시판 만들기. https://tychejin.tistory.com/16?category=765216
