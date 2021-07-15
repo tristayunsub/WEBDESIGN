@@ -17,3 +17,7 @@ https://jwt.io/
 #freecodecamp tutorial: https://www.youtube.com/watch?v=XCsS_NVAa1g&ab_channel=freeCodeCamp.org
 
 자바-스프링 게시판 만들기. https://tychejin.tistory.com/16?category=765216
+
+# Google Docs 클론코드 및 레딧 클론코드(계층형 댓글 구현)
+
+GOOGLE DOCS: https://www.youtube.com/watch?v=1ZdFJ0701QI&ab_channel=SonnySanghZ
