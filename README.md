@@ -19,7 +19,7 @@ https://jwt.io/
 자바-스프링 게시판 만들기. https://tychejin.tistory.com/16?category=765216
 
 도메인 구입 미국 :https://www.namecheap.com
- 한국: https://www.hosting.kr/domains/search
+ 한국: https://domain.gabia.com/reserve/buying_agency
 
 # Google Docs 클론코드 및 레딧 클론코드(계층형 댓글 구현)
 
