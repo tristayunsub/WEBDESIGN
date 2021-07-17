@@ -1,12 +1,13 @@
 # WEBDESIGN
 
 #HTML, CSS, JAVASCRIPT 학습
-
-
+ 
 
 #2021-06-24: Node.js를 통해 JWT구현 및 이해 Node.js, Express, Mongoose & JSON web tokens 
 #참조: https://www.youtube.com/watch?v=KiNBhjeMI4Y&list=PLdHg5T0SNpN0ygjV4yGXNct25jY_ue70U&ab_channel=yoursTRULY
 사용 npm : mongoose, jsonwebtoken, hapijoi, bcrypt, morgan, dotenv, redis-commander
+
+2021-07-17: https://www.youtube.com/watch?v=7mnbf3vnwtE&ab_channel=%EC%A1%B0%EB%B0%94%EC%9D%B4%EB%93%A0 aws, nginx로 첫 배포 완료
 
 #https://blog.naver.com/dcdcding/222293407872
 https://jwt.io/
