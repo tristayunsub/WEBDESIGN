@@ -22,6 +22,14 @@ https://jwt.io/
 도메인 구입 미국 :https://www.namecheap.com
  한국: https://domain.gabia.com/reserve/buying_agency
 
+
+# 네트워크와 보안
+
+네트워크 보안기술 : https://www.youtube.com/watch?v=1iGJpH8x-GI&list=PLQFHF6cwEgwM5svibsvonT5ZcGV02sOgb&index=3&ab_channel=NetworkingClass
+HTTPS와 SSL: https://www.youtube.com/watch?v=0cfUVrQW_yg&list=PLCZ-8rvakaqbplQZAoUku8uuxUgbLQm-1&ab_channel=%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9
+
+
+
 # Google Docs 클론코드 및 레딧 클론코드(계층형 댓글 구현)
 
 GOOGLE DOCS: https://www.youtube.com/watch?v=1ZdFJ0701QI&ab_channel=SonnySanghZ
