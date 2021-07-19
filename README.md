@@ -28,7 +28,8 @@ https://jwt.io/
 네트워크 보안기술 : https://www.youtube.com/watch?v=1iGJpH8x-GI&list=PLQFHF6cwEgwM5svibsvonT5ZcGV02sOgb&index=3&ab_channel=NetworkingClass
 HTTPS와 SSL: https://www.youtube.com/watch?v=0cfUVrQW_yg&list=PLCZ-8rvakaqbplQZAoUku8uuxUgbLQm-1&ab_channel=%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9
 
-
+[DNS] 시스템 학습 :https://www.youtube.com/watch?v=P4o3jdZgDgE&list=PLQFHF6cwEgwMKP2yyFtfejWfMrg_vDgfH&ab_channel=NetworkingClass
+OSI7(TCP/IP) 통신 프로토콜 기반으로 이루어지는 End to End  Host 간 데이터 전달을 복기하고, 이 과정상에서 DNS의 역할을 알아본다
 
 # Google Docs 클론코드 및 레딧 클론코드(계층형 댓글 구현)
 
