@@ -37,3 +37,16 @@ OSI7(TCP/IP) 통신 프로토콜 기반으로 이루어지는 End to End  Host �
 # Google Docs 클론코드 및 레딧 클론코드(계층형 댓글 구현)
 
 GOOGLE DOCS: https://www.youtube.com/watch?v=1ZdFJ0701QI&ab_channel=SonnySanghZ
+
+# 포트폴리오 준비
+
+draw.io 학습 : https://sjquant.tistory.com/61
+uml 학습 :https://www.youtube.com/watch?v=wkWRt-xeMG4&list=PLUWNXmQtLdmApTPhJTemD8hQ521BqRByx&ab_channel=%EC%A0%84%EB%B3%91%EC%84%A0IT%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8
+
+https://www.youtube.com/results?search_query=diagram.net+%EC%82%AC%EC%9A%A9
+
+
+https://www.youtube.com/watch?v=XEZCQglX5hg&ab_channel=%EB%B9%B5%EA%B5%BD%EB%8A%94%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%B9%B5%ED%98%95
+
+https://www.youtube.com/watch?v=EwHD-zK7dK8&ab_channel=%EB%B9%B5%EA%B5%BD%EB%8A%94%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%B9%B5%ED%98%95
+
