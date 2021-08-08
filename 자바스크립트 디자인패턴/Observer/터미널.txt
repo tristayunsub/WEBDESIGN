@@ -1,0 +1,9 @@
+PS C:\github\ORM학습\자바스크립트 디자인패턴\Observer> node .
+WDJ, there is a sale at Original Things! 99% off everything.
+Sam, there is a sale at Original Things! 99% off everything.
+Pete, there is a sale at Original Things! 99% off everything.
+Mike, there is a sale at Gubber Fubber! 0.1% off everything.
+[
+  { storeName: 'Original Things', discount: 99 },
+  { storeName: 'Gubber Fubber', discount: 0.1 }
+]
