@@ -1,0 +1,29 @@
+PS C:\github\ORM학습\자바스크립트 디자인패턴\Command> node .
+create <fileName> <text> | history | undo | redo | exit
+> create hello.txt hello world
+Executing command create hello.txt
+TODO: Create File hello.txt
+file contents: hello world
+> create hi.txt hi world
+Executing command create hi.txt
+TODO: Create File hi.txt       
+file contents: hi world        
+> create this.txt this world!
+Executing command create this.txt
+TODO: Create File this.txt
+file contents: this world!
+> history 
+> (node:2848) Warning: No such label 'create hello.txt' for console.timeLog()
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:2848) Warning: No such label 'create hi.txt' for console.timeLog()
+(node:2848) Warning: No such label 'create this.txt' for console.timeLog()
+> undo
+undo create this.txt
+> undo
+undo create hi.txt
+> history
+> (node:2848) Warning: No such label 'create hello.txt' for console.timeLog()
+> redo
+redo create hi.txt
+> redo
+redo create this.txt

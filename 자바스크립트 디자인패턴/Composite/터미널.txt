@@ -1,0 +1,14 @@
+PS C:\github\ORM학습\자바스크립트 디자인패턴\Composite> node .
+246.94000000000003
+
+STORE CATALOG
+Key Chain $6.99
+
+FANCY FOOD
+milkshakes $5.99
+French Fries $3.99
+
+SHOES GROUP
+Wingtip Shoes $179.99
+Kicks $39.99
+Flip Flops $9.99
