@@ -26,6 +26,9 @@ https://jwt.io/
 게임으로배우는 객체지향
 https://jojoldu.tistory.com/62
 
+
+디자인패턴 학습: https://www.youtube.com/watch?v=UEjsbd3IZvA&list=PLsoscMhnRc7pPsRHmgN4M8tqUdWZzkpxY&ab_channel=%EC%9D%B4%EC%95%BC%EA%B8%B0%27sG
+
 # 네트워크와 보안
 
 네트워크 보안기술 : https://www.youtube.com/watch?v=1iGJpH8x-GI&list=PLQFHF6cwEgwM5svibsvonT5ZcGV02sOgb&index=3&ab_channel=NetworkingClass
